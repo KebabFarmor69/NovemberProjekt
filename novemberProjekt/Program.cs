@@ -81,7 +81,7 @@ namespace novemberProjekt
 
                 if (Raylib.IsKeyDown(KeyboardKey.KEY_A))
                 {
-
+                    
                 }
 
 
